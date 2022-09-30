@@ -27,13 +27,6 @@ const _styles = StyleSheet.create({
     width: 285,
     height: 180
   },
-  NTpDlhrC: {
-    left: 52,
-    top: 344,
-    position: "absolute",
-    width: 228,
-    height: 99
-  },
   NXKFEvMz: {
     left: 76,
     top: 254,

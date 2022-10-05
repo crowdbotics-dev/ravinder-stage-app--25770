@@ -42,6 +42,7 @@ const _styles = StyleSheet.create({
     height: 92,
     lineHeight: 14,
     fontSize: 14,
-    borderRadius: 0
+    borderRadius: 0,
+    fontWeight: 100
   }
 });

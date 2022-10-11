@@ -46,5 +46,8 @@ const _styles = StyleSheet.create({
     textAlign: "center",
     transform: "rotate(360deg)",
     opacity: 0.69
+  },
+  jvQbXpPx: {
+    position: "unset"
   }
 });

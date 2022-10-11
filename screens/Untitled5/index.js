@@ -43,6 +43,7 @@ const _styles = StyleSheet.create({
     lineHeight: 33,
     fontSize: 24,
     borderRadius: 0,
-    textAlign: "center"
+    textAlign: "center",
+    transform: "rotate(360deg)"
   }
 });

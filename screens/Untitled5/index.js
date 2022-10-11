@@ -44,6 +44,7 @@ const _styles = StyleSheet.create({
     fontSize: 24,
     borderRadius: 0,
     textAlign: "center",
-    transform: "rotate(360deg)"
+    transform: "rotate(360deg)",
+    opacity: 0.69
   }
 });
